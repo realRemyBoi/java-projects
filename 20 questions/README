@@ -1,0 +1,7 @@
+This is just a basic 20 questions game written in Java.
+To play it, you will have to run the QuestionMain.java file.
+From there, it will read in the big-questions.txt file, which is its database
+it will use to guess an animal you are thinking of. It will traverse down the file
+using binary tree logic and ask you yes or no questions. If it runs out of ideas,
+it will ask for your answer and a y/n question for that answer and update the tree
+accordingly.

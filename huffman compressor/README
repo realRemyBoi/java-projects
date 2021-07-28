@@ -1,0 +1,5 @@
+The Huffman compression algorithm can compress data to fit into
+a smaller space. This group of Java classes is responsible for taking a text file,
+and can either compress that file to be smaller, or decompress a text file that has already been compressed
+using the same algorithm.
+To run the file and compress/decompress a file of your choosing, run the HuffmanCompressor.Java
